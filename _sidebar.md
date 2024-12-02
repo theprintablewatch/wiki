@@ -1,3 +1,3 @@
 - [Read Me](README)
 - [Example Second Page](second-page)
-- [TPW_wiki](Wiki)
+- [Wiki](TPW_wiki)
